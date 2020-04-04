@@ -1,0 +1,1 @@
+console.log('Why are eggs not very much into jokes? Because they could crack up.');
